@@ -3,7 +3,7 @@
 Unlock the Power of SEO with Seomate - Your AI-Enhanced Analysis Tool! 🌐✨
 
 ## Overview
-Welcome to Seomate, where SEO analysis meets innovation. This Python script combines web scraping and AI to provide a comprehensive analysis of crucial SEO elements, empowering you to optimize your website for success.
+Welcome to Seomate, where SEO analysis meets innovation. This Python script combines web scraping and AI to provide a comprehensive analysis of crucial SEO elements, empowering you to optimize your website for success.                                        
 
 ## Features 🛠️
 - **Smart Analysis:** Delve into basic page details, heading analysis, keyword density, and more.
@@ -29,6 +29,8 @@ Welcome to Seomate, where SEO analysis meets innovation. This Python script comb
 - `beautifulsoup4`: For HTML parsing.
 - `requests`: For making HTTP requests.
 - `openai`: Your gateway to natural language processing magic.
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Adithianps" data-color="#BD5FFF" data-emoji="🤝"  data-font="Cookie" data-text="Support me" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 ## Unleash Your Website's Potential! 🚀
 With Seomate, dive into the world of SEO optimization. Whether you're a developer, marketer, or business owner, harness the insights to enhance your online presence and captivate your audience!
